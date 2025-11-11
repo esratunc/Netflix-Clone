@@ -190,12 +190,12 @@ footer .questions {
   color: white;
   justify-content: space-between;
 }
-.footer-item{
-    display: flex;
-    flex-direction: column;
+.footer-item {
+  display: flex;
+  flex-direction: column;
 }
-.footer a{
-    color: white;
-    margin-top: 25px;
-    font-size: 18px;
+.footer a {
+  color: white;
+  margin-top: 25px;
+  font-size: 18px;
 }
